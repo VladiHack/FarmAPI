@@ -11,5 +11,6 @@ namespace FarmAPI.Services.Animals
         Task CreateAnimalAsync(AnimalDTO animalDTO);
         Task DeleteAnimalByIdAsync(int id);
         Task EditAnimalAsync(AnimalDTO animalDTO);
+
     }
 }

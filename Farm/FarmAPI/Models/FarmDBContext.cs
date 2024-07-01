@@ -13,6 +13,9 @@ namespace FarmAPI.Models
         public DbSet<Equipment> Equipment { get; set; }
         public DbSet<Employee> Employees { get; set; }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+      => optionsBuilder.UseSqlServer("Server=.\\SQLExpress;Database=FarmDB;Trusted_Connection=true;TrustServerCertificate=true;");
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Crop>()

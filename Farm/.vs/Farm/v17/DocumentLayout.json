@@ -3,76 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\animals\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\animals\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\animals\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\animals\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\automapper\\equipmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\automapper\\equipmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\automapper\\cropprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\automapper\\cropprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\automapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\automapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\automapper\\animalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\automapper\\animalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\dto\\equipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\dto\\equipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\controllers\\cropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\controllers\\cropcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\dto\\cropdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\dto\\cropdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\crop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\crop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\automapper\\cropprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\automapper\\cropprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\dto\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\dto\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\crops\\cropsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\crops\\cropsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\animals\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\animals\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\farmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\farmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\crops\\icropsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\crops\\icropsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\employees\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\employees\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\employees\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\employees\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\farmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\farmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\migrations\\20240701055511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,20 +59,24 @@
       "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\migrations\\farmdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\models\\farmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\models\\farmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\services\\animals\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\services\\animals\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\farmapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\farmapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|c:\\users\\vladimir boychev\\desktop\\farmapi\\farmapi\\farm\\farmapi\\automapper\\animalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F510A57-0190-4391-95CB-F26CE301A0D1}|FarmAPI\\FarmAPI.csproj|solutionrelative:farmapi\\automapper\\animalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,8 +86,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnimalProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\AnimalProfile.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\AutoMapper\\AnimalProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\AnimalProfile.cs",
+              "RelativeToolTip": "FarmAPI\\AutoMapper\\AnimalProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:21:15.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -118,292 +112,237 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AnimalService.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\AnimalService.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Services\\Animals\\AnimalService.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\AnimalService.cs",
-              "RelativeToolTip": "FarmAPI\\Services\\Animals\\AnimalService.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAACgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:34:13.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAnimalService.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\IAnimalService.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Services\\Animals\\IAnimalService.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\IAnimalService.cs",
-              "RelativeToolTip": "FarmAPI\\Services\\Animals\\IAnimalService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:31:58.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EquipmentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\EquipmentProfile.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\AutoMapper\\EquipmentProfile.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\EquipmentProfile.cs",
-              "RelativeToolTip": "FarmAPI\\AutoMapper\\EquipmentProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:24:37.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\EmployeeProfile.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\AutoMapper\\EmployeeProfile.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\EmployeeProfile.cs",
-              "RelativeToolTip": "FarmAPI\\AutoMapper\\EmployeeProfile.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:23:44.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CropProfile.cs",
               "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\CropProfile.cs",
               "RelativeDocumentMoniker": "FarmAPI\\AutoMapper\\CropProfile.cs",
               "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\CropProfile.cs",
               "RelativeToolTip": "FarmAPI\\AutoMapper\\CropProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:22:25.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AnimalProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\AnimalProfile.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\AutoMapper\\AnimalProfile.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\AutoMapper\\AnimalProfile.cs",
-              "RelativeToolTip": "FarmAPI\\AutoMapper\\AnimalProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:21:15.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnimalController.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\AnimalController.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Controllers\\AnimalController.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\AnimalController.cs",
-              "RelativeToolTip": "FarmAPI\\Controllers\\AnimalController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwCcAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:19:37.544Z",
+              "WhenOpened": "2024-07-01T11:49:00.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "FarmAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\appsettings.json",
-              "RelativeToolTip": "FarmAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-01T04:34:20.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EquipmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\EquipmentDTO.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\DTO\\EquipmentDTO.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\EquipmentDTO.cs",
-              "RelativeToolTip": "FarmAPI\\DTO\\EquipmentDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:01:26.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\EmployeeDTO.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\DTO\\EmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\EmployeeDTO.cs",
-              "RelativeToolTip": "FarmAPI\\DTO\\EmployeeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T06:00:26.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "CropDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\CropDTO.cs",
               "RelativeDocumentMoniker": "FarmAPI\\DTO\\CropDTO.cs",
               "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\CropDTO.cs",
               "RelativeToolTip": "FarmAPI\\DTO\\CropDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:59:56.698Z"
+              "WhenOpened": "2024-07-01T11:48:31.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AnimalDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\AnimalDTO.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\DTO\\AnimalDTO.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\AnimalDTO.cs",
-              "RelativeToolTip": "FarmAPI\\DTO\\AnimalDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CropController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\CropController.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Controllers\\CropController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\CropController.cs",
+              "RelativeToolTip": "FarmAPI\\Controllers\\CropController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:58:54.191Z"
+              "WhenOpened": "2024-07-01T11:43:29.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FarmDBContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
-              "RelativeToolTip": "FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
-              "ViewState": "AQIAAKUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "ICropsService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Crops\\ICropsService.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Services\\Crops\\ICropsService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Crops\\ICropsService.cs",
+              "RelativeToolTip": "FarmAPI\\Services\\Crops\\ICropsService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:55:31.915Z"
+              "WhenOpened": "2024-07-01T11:36:13.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20240701055511_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\20240701055511_Initial.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Migrations\\20240701055511_Initial.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\20240701055511_Initial.cs",
-              "RelativeToolTip": "FarmAPI\\Migrations\\20240701055511_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "CropsService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Crops\\CropsService.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Services\\Crops\\CropsService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Crops\\CropsService.cs",
+              "RelativeToolTip": "FarmAPI\\Services\\Crops\\CropsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T05:55:11.81Z"
+              "WhenOpened": "2024-07-01T11:36:02.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Program.cs",
-              "RelativeToolTip": "FarmAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:35:42.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Equipment.cs",
               "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Equipment.cs",
               "RelativeDocumentMoniker": "FarmAPI\\Models\\Equipment.cs",
               "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Equipment.cs",
               "RelativeToolTip": "FarmAPI\\Models\\Equipment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:30:30.322Z"
+              "WhenOpened": "2024-07-01T11:35:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\AnimalService.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Services\\Animals\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\AnimalService.cs",
+              "RelativeToolTip": "FarmAPI\\Services\\Animals\\AnimalService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:33:34.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Program.cs",
+              "RelativeToolTip": "FarmAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:22:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Employees\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Services\\Employees\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Employees\\IEmployeeService.cs",
+              "RelativeToolTip": "FarmAPI\\Services\\Employees\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:14:04.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "FarmAPI\\Controllers\\AnimalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:15:00.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240701055511_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\20240701055511_Initial.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Migrations\\20240701055511_Initial.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\20240701055511_Initial.cs",
+              "RelativeToolTip": "FarmAPI\\Migrations\\20240701055511_Initial.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:33:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Employees\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Services\\Employees\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Employees\\EmployeeService.cs",
+              "RelativeToolTip": "FarmAPI\\Services\\Employees\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:14:10.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FarmDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
+              "RelativeToolTip": "FarmAPI\\Migrations\\FarmDBContextModelSnapshot.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:33:36.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Employee.cs",
-              "RelativeToolTip": "FarmAPI\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:30:50.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "FarmDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\FarmDBContext.cs",
               "RelativeDocumentMoniker": "FarmAPI\\Models\\FarmDBContext.cs",
               "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\FarmDBContext.cs",
               "RelativeToolTip": "FarmAPI\\Models\\FarmDBContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:31:42.676Z"
+              "WhenOpened": "2024-07-01T11:28:40.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Crop.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Crop.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Models\\Crop.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Crop.cs",
-              "RelativeToolTip": "FarmAPI\\Models\\Crop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:29:39.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FarmAPI.http",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\FarmAPI.http",
-              "RelativeDocumentMoniker": "FarmAPI\\FarmAPI.http",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\FarmAPI.http",
-              "RelativeToolTip": "FarmAPI\\FarmAPI.http",
+              "DocumentIndex": 14,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Services\\Animals\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Services\\Animals\\IAnimalService.cs",
+              "RelativeToolTip": "FarmAPI\\Services\\Animals\\IAnimalService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-01T05:52:14.082Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:28:38.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Animal.cs",
-              "RelativeDocumentMoniker": "FarmAPI\\Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Models\\Animal.cs",
-              "RelativeToolTip": "FarmAPI\\Models\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FarmAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\appsettings.json",
+              "RelativeToolTip": "FarmAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T11:28:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "FarmAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T04:30:12.697Z"
+              "WhenOpened": "2024-07-01T11:14:47.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "FarmAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\FarmAPI.csproj",
-              "RelativeDocumentMoniker": "FarmAPI\\FarmAPI.csproj",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\FarmAPI.csproj",
-              "RelativeToolTip": "FarmAPI\\FarmAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-01T05:41:07.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "FarmAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\appsettings.Development.json",
-              "RelativeToolTip": "FarmAPI\\appsettings.Development.json",
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "FarmAPI\\DTO\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "FarmAPI\\DTO\\EmployeeDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-01T05:32:42.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FarmAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\FarmAPI\\FarmAPI\\Farm\\FarmAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FarmAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-01T05:33:00.091Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:14:23.942Z",
+              "EditorCaption": ""
             }
           ]
         }
