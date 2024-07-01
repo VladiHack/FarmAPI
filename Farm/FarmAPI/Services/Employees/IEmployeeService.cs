@@ -10,7 +10,7 @@ namespace FarmAPI.Services.Employees
         Task<Employee> GetEmployeeByIdAsync(int id);
         Task CreateEmployeeAsync(EmployeeDTO employeeDTO);
         Task DeleteEmployeeByIdAsync(int id);
-        Task EditEmployeeAsync(EmployeeDTO animalDTO);
+        Task EditEmployeeAsync(EmployeeDTO employeeDTO);
 
     }
 }

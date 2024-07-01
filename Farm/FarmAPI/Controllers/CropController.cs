@@ -20,14 +20,14 @@ namespace FarmAPI.Controllers
             _employeeService = employeeService;
         }
 
-        [HttpGet]
+        [HttpGet("GetCrops")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<IEnumerable<Crop>>> GetCropsAsync()
         {
             return Ok(await _cropService.GetCropsAsync());
         }
 
-        [HttpGet("{Id:int}", Name = "GetCrop")]
+        [HttpGet("GetCrop/{Id:int}", Name = "GetCrop")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -48,7 +48,7 @@ namespace FarmAPI.Controllers
             return Ok(crop);
         }
 
-        [HttpPost]
+        [HttpPost("CreateCrop")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -78,7 +78,7 @@ namespace FarmAPI.Controllers
             return CreatedAtRoute("GetCrop", new { Id = cropDTO.CropID }, cropDTO);
         }
 
-        [HttpDelete("{Id}", Name = "DeleteCrop")]
+        [HttpDelete("DeleteCrop/{Id}", Name = "DeleteCrop")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -99,7 +99,7 @@ namespace FarmAPI.Controllers
         }
 
 
-        [HttpPut("{Id}", Name = "UpdateCrop")]
+        [HttpPut("UpdateCrop/{Id}", Name = "UpdateCrop")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]

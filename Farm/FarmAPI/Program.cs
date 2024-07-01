@@ -4,6 +4,7 @@ using FarmAPI.Services.Animals;
 using FarmAPI.Services.Employees;
 using FarmAPI.AutoMapper;
 using FarmAPI.Services.Crops;
+using FarmAPI.Services.Equipment;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,11 +14,13 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<FarmDBContext>();
 
-builder.Services.AddAutoMapper(typeof(AnimalProfile), typeof(EmployeeProfile), typeof(CropProfile));
+builder.Services.AddAutoMapper(typeof(AnimalProfile), typeof(EmployeeProfile), typeof(CropProfile), typeof(EquipmentProfile));
 
 builder.Services.AddTransient<IAnimalService, AnimalService>();
 builder.Services.AddTransient<IEmployeeService, EmployeeService>();
 builder.Services.AddTransient<ICropsService, CropsService>();
+builder.Services.AddTransient<IEquipmentService, EquipmentService>();
+
 // Register the FarmDBContext using the connection string from appsettings.json
 
 builder.Services.AddDbContext<FarmDBContext>(options =>

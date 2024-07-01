@@ -18,14 +18,14 @@ namespace FarmAPI.Controllers
             _employeeService = employeeService;
         }
 
-        [HttpGet]
+        [HttpGet("GetAnimals")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<IEnumerable<Animal>>> GetAnimalsAsync()
         {
             return Ok(await _animalService.GetAnimalsAsync());
         }
 
-        [HttpGet("{Id:int}", Name = "GetAnimal")]
+        [HttpGet("GetAnimal/{Id:int}", Name = "GetAnimal")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -46,7 +46,7 @@ namespace FarmAPI.Controllers
             return Ok(animal);
         }
 
-        [HttpPost]
+        [HttpPost("CreateAnimal")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -76,7 +76,7 @@ namespace FarmAPI.Controllers
             return CreatedAtRoute("GetAnimal", new { Id = animalDTO.AnimalID}, animalDTO);
         }
 
-        [HttpDelete("{Id}", Name = "DeleteAnimal")]
+        [HttpDelete("DeleteAnimal/{Id}", Name = "DeleteAnimal")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -97,7 +97,7 @@ namespace FarmAPI.Controllers
         }
 
 
-        [HttpPut("{Id}", Name = "UpdateAnimal")]
+        [HttpPut("UpdateAnimal/{Id}", Name = "UpdateAnimal")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
